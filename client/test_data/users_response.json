@@ -1,0 +1,22 @@
+{
+    "stat": "OK",
+    "response": [
+      {
+        "alias1": "joe.smith",
+        "alias2": "jsmith@example.com",
+        
+        "created": 1489612729,
+        "email": "jsmith@example.com",
+        "firstname": "Joe",
+        "is_enrolled": true,
+        "last_directory_sync": 1508789163,
+        "last_login": 1343921403,
+        "lastname": "Smith",
+        "realname": "Joe Smith",
+        "status": "active",
+        "u2ftokens": [],
+        "user_id": "DU3RP9I2WOC59VZX672N",
+        "username": "jsmith"
+      }
+    ]
+  }
